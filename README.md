@@ -14,6 +14,3 @@ Neste repositório contém uma pagina HTML que faz uso das tags section, article
 <h4 align="center">
 <a href="https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md">Voltar ao Menu Bootcamp Spread Full Stack (Back to Bootcamp Spread Full Stack Menu)
 </h4>
-
-
-Dimensão e Alinhamento
